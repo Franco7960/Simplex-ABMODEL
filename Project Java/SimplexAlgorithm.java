@@ -28,6 +28,7 @@ public class SimplexAlgorithm{
             }
             System.out.println("");
             System.out.println("Prueba para subir cambios en GITHUB");
+            System.out.println("Prueba 2 para mostrar");
         }
     }
 }
